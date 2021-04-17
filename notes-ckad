@@ -10,8 +10,13 @@ Practice
 •	this: https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552
 •	KodeKloud Mock exams - very easy (or in another words, not tough as exam)
 •	KodeKloud Lightning labs - when you are comfortable cracking lightning labs within 20 minutes - you should be ready for the exam
-•	Imperative commands is a must - CKAD was a different experience compare to CKA.. CKAD has 19 questions and you have to be really really fast to attempt all the questions... If you start writing YAMLs from scratch, you wont be able to attempt all the questions
-•	apart from aliases on kubecheat sheet webpage, I used another one: export do="--dry-run=client -o yaml" - so you would run eg. k run nginx --image=nginx $do > nginx.yaml - small time saver but every second that you save during the exam, adds up
+•	Imperative commands is a must - CKAD was a different experience compare to CKA.. CKAD has 19 questions and you have to be really 
+	really fast to attempt all the questions... If you start writing YAMLs from scratch, you wont be able to attempt all the questions
+•	apart from aliases on kubecheat sheet webpage, I used another one: export do="--dry-run=client -o yaml" 
+	- so you would run eg. k run nginx --image=nginx $do > nginx.yaml - small time saver but every second that you save during the exam, adds up
 •	be comfortable with VIM - just the basic stuff
-•	Focus on getting the passing mark first - my strategy was, if it takes more than 5 seconds to understand the question and if it is below 5% - flag it and come back later - can't stress this enough
-o	remember though that if your session gets disconnected for any reasons, your flags will be lost - i had this happened to me twice during the exam and as a result, I lost so much of time trying to figure out which one I had flagged - another way you could do this is 1) flag the question and 2) note down the number of question in notepad provided
+•	Focus on getting the passing mark first - my strategy was, if it takes more than 5 seconds to understand the question and if it is below 5% 
+	- flag it and come back later - can't stress this enough
+o	remember though that if your session gets disconnected for any reasons, your flags will be lost 
+	- i had this happened to me twice during the exam and as a result, I lost so much of time trying to figure out which one I had flagged 
+	- another way you could do this is 1) flag the question and 2) note down the number of question in notepad provided

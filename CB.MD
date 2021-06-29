@@ -41,7 +41,7 @@
 8. Sometimes you may run into the scripts not being loaded under CFadmin. Jquery.js is throwing 404. Following things can be checked.
       * CFFormScriptDirectory in .CFconfig.json if you are using it
       * You may have to set "/cfscripts/scripts/" or try keeping it blank. I still haven't figured out the actual fix but this setting seems to work depending on the CF and CB versions that you use.
-
+9. CFadmin default password for CommandBox is **commandbox**
 ### Frequently used CommandBox commands
 
 1. server start xyz --debug
